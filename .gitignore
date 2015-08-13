@@ -31,3 +31,5 @@ DerivedData
 # Carthage/Checkouts
 
 Carthage/Build
+InjectLite/InjectLite.xcodeproj
+InjectLite/InjectLiteTests
